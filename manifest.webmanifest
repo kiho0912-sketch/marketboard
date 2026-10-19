@@ -1,0 +1,15 @@
+{
+  "name": "마켓보드 - 환율·국내주식 한눈에",
+  "short_name": "마켓보드",
+  "description": "달러·엔화·위안화 환율과 국내 지수·관심종목 확인",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fc",
+  "theme_color": "#102b59",
+  "lang": "ko",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
